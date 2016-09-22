@@ -1,0 +1,25 @@
+<div ng-controller="EdCtrl">
+
+<h3>Formal Education</h3>
+<div ng-repeat="ed in data | orderBy: 'id'">
+    <dl class="dl-horizontal">
+        <dt>{{ ed.date}}</dt>
+        <dd><b>{{ed.degree}}</b><br /> {{ed.university}}</dd>
+    </dl>
+    
+    <!-- <span><h4>{{ ed.degree}}</span> <span>{{ ed.date}}</h4></span>
+    <p>{{ ed.university }}</p>
+    <br /> -->
+</div>
+<h3>Professional Development</h3>
+<div ng-repeat="course in profDev | orderBy: '-id' ">
+	<dl class="dl-horizontal">
+		<dt> {{course.date}}</dt>
+		<dd>
+			<h4>{{course.course}}<br />
+			<small>{{course.provider}}, {{course.platform}} </small></h4><br />
+			{{course.description}}
+		</dd>
+	</dl>
+</div>
+</div>

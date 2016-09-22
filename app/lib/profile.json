@@ -1,0 +1,60 @@
+[
+    {
+        "description": [
+            {
+                "id": 1,
+                "text": "Front-end software developer with +10 years’ experience committed to professional growth. Experienced in developing software that include data mining and processing scripts, instrument interfacing, web apps, and mobile software."                
+            },
+            {
+                "id":2,
+                "text": "Accomplished in managing multidisciplinary groups, cross-cultural communication, and building relationships between industry and government."
+            },
+            {
+                "id":3,
+                "text":" Looking to further contribute to international development initiatives in advisory roles to facilitate the growth of the organizations and their initiatives in a sustainable manner."
+            }
+        ],
+        "id": 1,
+        "title": "Profile"
+    },
+    {
+        "description": [
+            {
+                "id": 1,
+                "text": "Directed a national task force to create and implement a pilot project for teachers in distance education using eLearning platforms in Mozambique, Ministry of Education."
+            },
+            {
+                "id": 2,
+                "text": "Initiated, designed and implemented a knowledge management system that improved product development and reduced the training time from 18 months down to 6 months: a 300% (measured) productivity improvement, which equates to half a million dollars in savings."
+            }
+        ],
+        "id": 3,
+        "title": "Key Achievements"
+    },
+    {
+        "id": 2,
+        "title": "Technical Skills",
+        "description": [
+            {
+                "id": 1,
+                "text": "Programming: Ruby on Rails, Python/Django, PHP, Javascript, CSS, HTML, Swift, Objective-C, Visual Basic/VBA, bash scripting, familiar with C/C++, and Java"
+            },
+            {
+                "id":2,
+                "text": "Databases: MySQL, PostgreSQL, sqlite, MongoDB"
+            },
+            {
+                "id":3,
+                "text": "Web platforms: Nginx, Node.js, Apache, LAMP, MAMP"
+            },
+            {
+                "id": 4,
+                "text": "Tools: Git/Bitbucket, Trello, vim, Asana, Slack, Jira, Redmine, LabView"
+            },
+            {
+                "id": 5,
+                "text": "OS environments: Linux, OS X, Microsoft Windows + cygWIN"
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+<div ng-controller="IntlCtrl" class="row">
+    <div ng-repeat="data in data" class="col-md-12">
+        <dl class="dl-horizontal">
+            <dt>Languages</dt>
+            <dd ng-repeat="lang in data.languages" >{{lang}}</dd>
+        </dl>
+        <dl class="dl-horizontal">
+            <dt>International Experience</dt>
+            <dd ng-repeat="place in data.places"><img src="images/blank.gif" class="flag {{place.flag}}" alt="{{place.country}}" />  {{place.country}}</dd>
+        </dl>
+    </div>
+</div>

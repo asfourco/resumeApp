@@ -1,0 +1,23 @@
+
+
+<div class="jumbotron">
+  <h1>Fadi Asfour, PhD</h1>
+  <p class="lead">
+    Making Order Out of Chaos
+  </p>
+  <p>
+      <a ng-href="mailto:fadi@asfourconsulting.com"><i class="fa fa-envelope"></i></a>
+      <a ng-href="http://twitter.com/asfourco"><i class="fa fa-twitter-square"></i></a>
+      <a ng-href="http://ca.linkedin.com/in/fadiasfour"><i class="fa fa-linkedin"></i></a>
+  </p>
+</div>
+
+<div class="row marketing" ng-controller="MainCtrl">
+    <div ng-repeat=" entry in data | orderBy: 'id'" >
+        <dl class="dl-horizontal">
+        <dt>{{ entry.title }}</dt>
+
+            <dd ng-repeat=" point in entry.description">{{point.text}}<br/><br/></dd>
+        </dl>
+    </div>
+</div>

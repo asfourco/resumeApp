@@ -1,0 +1,145 @@
+[
+    {
+        "points": [
+
+        ],
+        "end": "Mar, 2016",
+        "id": 9,
+        "start": "Aug, 2015",
+        "company": "I-Xtra Tech Inc.",
+        "position": "Senior Software Engineer",
+        "description": [
+            "Designed and developed an iOS mobile app to allow the user to interact with their data stored on an external memory storage accessory. The app allows the user to a) capture pictures and videos to store directly to external memory, and b) transfer data between the iPhone/iPad and the external accessory.",
+            "To manage the project, I setup two virtual machines: one to host our gitlab server for version control of our software and the other to host Redmine as our project and bug management tool. As the project grew and involved outside developers I migrated the gitlab installation to bitbucket and Redmine to an Amazon EC instance.",
+            "In addition, I developed debugging tools that would allow developers to interrogate the communication bus between the external accessory and the iOS app."
+        ]
+    },
+    {
+        "points": [
+
+        ],
+        "end": "Jul, 2015",
+        "id": 8,
+        "start": "Jan, 2015",
+        "company": "Ozograin International Inc.",
+        "position": "CEO",
+        "description": [
+            "OZOGrain was a startup created to launch the clean fumigation technology developed by Operadora de Granos Almacenados within the Canadian grain industry."
+        ]
+    },
+    {
+        "points": [
+
+        ],
+        "end": "Dec, 2014",
+        "position": "Principal Consultant",
+        "id": 7,
+        "start": "May, 2013",
+        "company": "Operadora de Granos Almacenados, SA de CV",
+        "description": [
+            "As the PRINCIPAL CONSULTANT for this Mexican agricultural company I provide strategic business, scientific, and technical services to help the client design and deploy their services into the Canadian agroindustrial market."
+        ]
+    },
+    {
+        "id": 98,
+        "end": "Present",
+        "company": "TechBA Vancouver",
+        "description": [
+            "ADVISOR to a business accelerator group that helps small and medium size Mexican businesses expand their operations into Canada.",
+            "I provide its clients market analysis (SWOT and competitor analysis) services, proposal writing, due diligence of intellectual property, and assist in understanding legal and regulatory requirements."
+        ],
+        "start": "May, 2013"
+    },
+    {
+        "points": [
+            {
+                "id": 1,
+                "text": "Imparted technical direction, unified, and led a task force from different units of the Ministry of Education (INDE, INDED, IEDA, DINES, DTIC) in the development of a pilot project to help teachers at the secondary school level to deliver distance education nationwide"
+            },
+            {
+                "id": 2,
+                "text": "Worked closely with the Director and the team of the ICT department of the Ministry of Education and supported their initiatives by analyzing, assessing, implementing viable solutions, and mentoring a young team to achieve their objectives"
+            }
+        ],
+        "id": 5,
+        "end": "October, 2012",
+        "company": "Ministry of Education, Mozambique",
+        "description": [
+            "TECHNICAL ADVISOR to the information and communication technologies department"
+        ],
+        "start": "June, 2012"
+    },
+    {
+        "id": 4,
+        "end": "October, 2012",
+        "company": "Carrefours Jeunesse Emploi, Mozambique",
+        "description": [
+            "ADVISOR for program to promote youth employment as part of the combating poverty initiative of CUSO in Mozambique.",
+            "Supported and guided the director of Mozarte (Youth Craft Centre) and the administrator of CJE- Maputo to provide leadership setting up the policies of the centre and its users, developing the business plan, and determining strategic alliances with other groups to have a quick impact in Maputo and serve as a model for future centres throughout the country. This initiative was supported by USAID through the US Embassy in Mozambique and by the Ministry of Youth and Sports."
+        ],
+        "start": "May, 2012"
+    },
+    {
+        "id": 99,
+        "end": "present",
+        "company": "ASFOUR Consulting, Vancouver",
+        "description": [
+            "I create value for clients through a) facilitating strategy development using the LEGO® SERIOUS PLAY® methodology, b) analysis of systems and processes, and c) creating knowledge management systems.",
+            "Personal projects:"
+        ],
+        "start": "July, 2010"
+    },
+    {
+        "points": [
+            {
+                "id":1,
+                "text":"ScriptGooey: A node.js/Javascript web application to convert user created diagrams – much like that of LabView – into its corresponding Python, Ruby, or R scripts. It employs Backbone as a framework, and MongoDB as a noSQL database."
+            },
+            {
+                "id":1,
+                "text":"dataProc: A prototype python (django framework) based web app to process and view time series data."
+            }
+        ],
+        "id": 2,
+        "end": "December, 2009",
+        "company": "SWITCH Materials Inc., Burnaby",
+        "description": [
+            "As SENIOR RESEARCH SCIENTIST and the sixth employee to join this clean technology startup company, I helped them move from the prototype to product development stage."
+        ],
+        "start": "September, 2008"
+    },
+    {
+        "points": [
+            {
+                "id": 1,
+                "text": "Mentored and advised undergraduate students on research protocols and industry standards"
+            },
+            {
+                "id": 1,
+                "text": "Advocated, initiated, and implemented a digital project management system to coordinate R&D projects and findings. This system allowed research scientists to easily access data and information about their experiments. The net effect was a considerable improvement in productivity and product development efficiency."
+            }
+        ],
+        "id": 1,
+        "end": "August, 2008",
+        "company": "E-One Moli Energy (Canada) Ltd., Maple Ridge",
+        "description": [
+            "RESEARCH SCIENTIST for an alternative energy company developing and manufacturing rechargeable lithium ion batteries."
+        ],
+        "start": "October, 2005"
+    },
+    {
+        "points": [
+            {
+                "id": 1,
+                "text": "Established and managed the new laboratories, guided the selection of undergraduate students, and trained new group members"
+            }
+        ],
+        "id": 0,
+        "end": "August, 2005",
+        "company": "UBC, Department of Forestry, BioOrganic Laboratories",
+        "description": [
+            "POSTDOCTORAL FELLOW in a research group investigating added-value products based on cellulose, lignin, and other forestry by-products."
+        ],
+        "start": "January, 2004"
+    }
+]

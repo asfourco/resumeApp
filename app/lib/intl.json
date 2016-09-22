@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "languages": [
+            "English (fluent)",
+            "Arabic (fluent)",
+            "Spanish (fluent)",
+            "Portuguese (intermediate-advanced)",
+            "French (beginner, 9 years of schooling)"
+        ],
+        "places": [
+            {
+                "country": "Canada",
+                "flag": "flag-ca"
+            },
+            {
+                "country": "United States",
+                "flag": "flag-us"
+            },
+            {
+                "country": "Jordan",
+                "flag": "flag-jo"
+            },
+            {
+                "country": "Mozambique",
+                "flag": "flag-mz"
+            },
+            {
+                "country": "Mexico",
+                "flag": "flag-mx"
+            },
+            {
+                "country": "Uruguay",
+                "flag": "flag-uy"
+            }
+        ]
+    }
+]

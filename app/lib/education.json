@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "date": 2010,
+        "degree":"Small Busines Program",
+        "university":"Douglas College, Vancouver"
+    },
+    {
+        "date": 2003,
+        "degree": "Doctorate of Philosophy, (PhD), Materials Science",
+        "id": 2,
+        "university": "Michigan State University, East Lansing, MI, USA"
+    },
+    {
+        "date": 1997,
+        "degree": "Master of Science (MSc), Polymer Chemistry",
+        "id": 3,
+        "university": "Mcmaster University Hamilton, ON, Canada"
+    },
+    {
+        "date": 1995,
+        "degree": "Bachelor of Science (BSc), Chemistry",
+        "id": 4,
+        "university": "Canisius College, Buffalo, NY, USA"
+    }
+
+]

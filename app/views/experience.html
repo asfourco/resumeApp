@@ -1,0 +1,18 @@
+<div ng-controller="ExpCtrl">
+    <div ng-repeat="exp in data | orderBy: '-id' ">
+        <dl class="dl-horizontal">
+            <dt>{{exp.start}} - {{exp.end}}</dt>
+            <dd>
+                <b>{{ exp.company }}</b><br />
+				<b>{{ exp.position }}</b>
+                <p ng-repeat="p in exp.description">{{ p}}</p>
+                <ul>
+                    <li ng-repeat=" point in exp.points| orderBy: 'id'">{{ point.text }}</li>
+                </ul>
+            </dd>
+            
+        </dl>
+    </div>
+    
+    <!-- <pre>{{data|json}}</pre> -->
+</div>

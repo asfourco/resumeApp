@@ -1,0 +1,19 @@
+<div ng-controller="ContactCtrl">
+    <!-- <pre>{{data|json}}</pre> -->
+
+    <div ng-repeat="data in data | orderBy: 'id'">
+        <dl class="dl-horizontal">
+            <dt><i class="fa fa-phone"></i></dt>
+            <dd>{{ data.tel }}</dd>
+            
+            <dt><i class="fa fa-envelope"></i></dt>
+            <dd>{{ data.email }}</dd>
+            
+            <dt><i class="fa fa-twitter"></i></dt>
+            <dd>{{ data.twitter }}</dd>
+            
+            <dt><i class="fa fa-linkedin"></i></dt>
+            <dd>{{ data.linkedin }}</dd>
+        </dl>
+    </div>
+</div>

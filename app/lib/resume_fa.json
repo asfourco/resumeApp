@@ -1,0 +1,100 @@
+[{
+    "name": "contact",
+    "content": {
+        "email": "fadi.asfour@gmail.com",
+        "linkedin": "http://ca.linkedin.com/in/fadiasfour",
+        "tel": "+1 (604) 338-6412",
+        "twitter": "@asfourco"
+    }
+}, {
+    "name": "profile",
+    "content": [{
+        "description": [{
+            "id": 1,
+            "text": "Senior Technical Advisor with 10 years of experience providing collaborative leadership and innovative guidance. Accomplished in managing multidisciplinary groups, cross-cultural communication, and building relationships between industry and government. Looking to further contribute in international development initiatives in advisory roles to facilitate the growth of the organizations and their initiatives in a sustainable manner."
+        }],
+        "id": 1,
+        "title": "Profile"
+    }, {
+        "description": [{
+            "id": 1,
+            "text": "Directed a national task force to create and implement a pilot project for teachers in distance education using eLearning platforms in Mozambique, Ministry of Education."
+        }, {
+            "id": 2,
+            "text": "Initiated, designed and implemented a knowledge management system that improved product development and reduced the training time from 18 months down to 6 months: a 300% (measured) productivity improvement, which equates to half a million dollars in savings."
+        }],
+        "id": 2,
+        "title": "Key Acheivments"
+    }]
+}, {
+    "name": "education",
+    "content": [{
+        "date": "2003",
+        "degree": "Doctorate of Philosophy, (PhD), Materials Science",
+        "id": 1,
+        "university": "Michigan State University, East Lansing, MI, USA"
+    }, {
+        "date": "1997",
+        "degree": "Master of Science (MSc), Polymer Chemistry",
+        "id": 2,
+        "university": "Mcmaster University Hamilton, ON, Canada"
+    }, {
+        "date": "1995",
+        "degree": "Bachelor of Science (BSc), Chemistry",
+        "id": 3,
+        "university": "Canisius College, Buffalo, NY, USA"
+    }]
+}, {
+    "name": "experience",
+    "content": [{
+        "company": "OPERADORA DE GRANOS ALMACENADOS",
+        "description": "As the PRINCIPAL CONSULTANT for this Mexican agricultural company I provide strategic business, scientific, and technical services to help the client design and deploy their services into the Canadian agroindustrial market.",
+        "id": 1,
+        "points": [{
+            "id": 1,
+            "text": "Built support within governmental agencies to further lend credibility to the viability of the product and its application in the Canadian grain industry"
+        }, {
+            "id": 2,
+            "text": "Designed and executed implementation plans to establish a new Canadian subsidiary"
+        }, {
+            "id": 3,
+            "text": "Managed a multidisciplinary team to acquire data, build business models, and design market strategies"
+        }, {
+            "id": 4,
+            "text": "Due diligence analysis and mitigation of risk to protect intellectual property and create value for the subsidiary and parent companies"
+        }],
+        "position": "Principal Consultant"
+    }]
+
+}, {
+    "name": "intl",
+    "content": {
+        "languages": [
+            "English (fluent)",
+            "Arabic (fluent)",
+            "Spanish (fluent)",
+            "intermediate-advanced Portuguese",
+            "beginner French (9 years of schooling)"
+        ],
+        "places": [{
+            "country": "Canada",
+            "flag": "flag-ca"
+        }, {
+            "country": "United States",
+            "flag": "flag-us"
+        }, {
+            "country": "Jordan",
+            "flag": "flag-jo"
+        }, {
+            "country": "Mozambique",
+            "flag": "flag-mz"
+        }, {
+            "country": "Mexico",
+            "flag": "flag-mx"
+        }, {
+            "country": "Uruguay",
+            "flag": "flag-uy"
+        }]
+    }
+
+}]
